@@ -17,7 +17,7 @@ global.confirmCode = ''
 global.owner = [
   ['50248019799', '🐉𝙉𝙚𝙤𝙏𝙤𝙠𝙮𝙤 𝘽𝙚𝙖𝙩𝙨🐲-Soporte', true],
   ['51984368849', 'emer -soporte', true],
-  ['18294868853', 'Dionebi', true],
+  ['50493732693', 'Dionebi', true],
   ['50248019799']
 ];
 
